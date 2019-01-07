@@ -1,0 +1,285 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{12264BFA-07BE-4AC0-8649-1603F2FDD0A5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>OZEL_ANAOKULU_OTOMASYONU</RootNamespace>
+    <AssemblyName>OZEL_ANAOKULU_OTOMASYONU</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ADI ARAMA SOYADI FİLTRELEME.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADI ARAMA SOYADI FİLTRELEME.Designer.cs">
+      <DependentUpon>ADI ARAMA SOYADI FİLTRELEME.cs</DependentUpon>
+    </Compile>
+    <Compile Include="bütünform.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="bütünform.Designer.cs">
+      <DependentUpon>bütünform.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOGRHAKKINDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOGRHAKKINDA.Designer.cs">
+      <DependentUpon>frmOGRHAKKINDA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSORUN1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSORUN1.Designer.cs">
+      <DependentUpon>frmSORUN1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSORUN2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSORUN2.Designer.cs">
+      <DependentUpon>frmSORUN2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaksitOdemeleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaksitOdemeleri.Designer.cs">
+      <DependentUpon>frmTaksitOdemeleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sınıflar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sınıflar.Designer.cs">
+      <DependentUpon>sınıflar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAna.Designer.cs">
+      <DependentUpon>frmAna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="form2KISIEKLE.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="form2KISIEKLE.Designer.cs">
+      <DependentUpon>form2KISIEKLE.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMANNEBABADURUMU.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMANNEBABADURUMU.Designer.cs">
+      <DependentUpon>FRMANNEBABADURUMU.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FRMOGR.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FRMOGR.Designer.cs">
+      <DependentUpon>FRMOGR.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmveliler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmveliler.Designer.cs">
+      <DependentUpon>frmveliler.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LOGIN.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LOGIN.Designer.cs">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OZEL_ANAOKULUDataSet.cs">
+      <DependentUpon>OZEL_ANAOKULUDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="OZEL_ANAOKULUDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>OZEL_ANAOKULUDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="ADI ARAMA SOYADI FİLTRELEME.resx">
+      <DependentUpon>ADI ARAMA SOYADI FİLTRELEME.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="bütünform.resx">
+      <DependentUpon>bütünform.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOGRHAKKINDA.resx">
+      <DependentUpon>frmOGRHAKKINDA.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSORUN1.resx">
+      <DependentUpon>frmSORUN1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSORUN2.resx">
+      <DependentUpon>frmSORUN2.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaksitOdemeleri.resx">
+      <DependentUpon>frmTaksitOdemeleri.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sınıflar.resx">
+      <DependentUpon>sınıflar.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAna.resx">
+      <DependentUpon>frmAna.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="form2KISIEKLE.resx">
+      <DependentUpon>form2KISIEKLE.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMANNEBABADURUMU.resx">
+      <DependentUpon>FRMANNEBABADURUMU.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FRMOGR.resx">
+      <DependentUpon>FRMOGR.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmveliler.resx">
+      <DependentUpon>frmveliler.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LOGIN.resx">
+      <DependentUpon>LOGIN.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="OZEL_ANAOKULUDataSet.xsc">
+      <DependentUpon>OZEL_ANAOKULUDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="OZEL_ANAOKULUDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>OZEL_ANAOKULUDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="OZEL_ANAOKULUDataSet.xss">
+      <DependentUpon>OZEL_ANAOKULUDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="OZEL_ANAOKULU.mdb">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\maas-3.jpg" />
+    <None Include="Resources\resim1.jpg" />
+    <None Include="Resources\resim3ogrenci.jpg" />
+    <None Include="Resources\saat1.jpg" />
+    <None Include="Resources\saat.png" />
+    <None Include="Resources\aile_icon.png" />
+    <None Include="Resources\anamenü.jpg" />
+    <None Include="Resources\analiz.png" />
+    <None Include="Resources\ders1.png" />
+    <None Include="Resources\musteri.jpg" />
+    <None Include="Resources\accessibilitycpl.dll_I0146_0409.png" />
+    <None Include="Resources\MEO.gif" />
+    <None Include="Resources\ögrenci hakkında1.jpg" />
+    <None Include="Resources\ozel-bursa-duru-anaokulu-kukla-sahnesi-c6ff2487-brzcz2.jpg" />
+    <None Include="Resources\anaokulu.jpg" />
+    <None Include="Resources\sinif.png" />
+    <None Include="Resources\ders.png" />
+    <None Include="Resources\anaokulu21.jpg" />
+    <None Include="Resources\neden-anaokulu2.jpg" />
+    <None Include="Resources\ozel-bursa-duru-anaokulu-kukla-sahnesi-c6ff2487-brzcz1.jpg" />
+    <None Include="Resources\anaokulu11.jpg" />
+    <None Include="Resources\cikis.png" />
+    <None Include="Resources\disket_48.png" />
+    <None Include="Resources\hepsim.png" />
+    <None Include="Resources\yeni.png" />
+    <None Include="Resources\ters.png" />
+    <None Include="Resources\sinavekle.png" />
+    <None Include="Resources\ögrenci hakkında.jpg" />
+    <None Include="Resources\anaokulu2.jpg" />
+    <None Include="Resources\anaokulu1.jpg" />
+    <None Include="Resources\ozel-bursa-duru-anaokulu-kukla-sahnesi-c6ff2487-brzcz.jpg" />
+    <None Include="Resources\anaokulu_1.jpg" />
+    <None Include="Resources\anaokulu_.jpg" />
+    <None Include="Resources\anaokulu_logo.jpg" />
+    <None Include="Resources\logo4.png" />
+    <None Include="Resources\kullaniciekle.png" />
+    <None Include="Resources\icon-kardesogrenci.jpg" />
+    <None Include="Resources\huawei_logo-2.jpg" />
+    <None Include="Resources\g_sozu.png" />
+    <None Include="Resources\elma.png" />
+    <None Include="Resources\cgch.jpeg" />
+    <None Include="Resources\2.0-BigSQLLogo.png" />
+    <None Include="Resources\DJ.gif" />
+    <None Include="Resources\Penguins.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

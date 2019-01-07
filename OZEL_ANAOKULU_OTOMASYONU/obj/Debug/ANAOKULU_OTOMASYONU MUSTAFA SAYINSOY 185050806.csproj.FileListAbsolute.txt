@@ -1,0 +1,220 @@
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+F:\mustafanın bilgisayar çalışmaları 3\OZEL_ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 11-A 135\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+F:\mustafanın bilgisayar çalışmaları 3\MUSTAFA SAYINSOY\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\Yeni klasör\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (3)\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\yazılım müh ödevi - Kopya - Kopya (4) - Kopya - Kopya\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\YAZILIM MÜH ÖDEVVİİ\Yazılım müh ödevi\MUSTAFA SAYINSOY ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU.mdb
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\bin\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csprojAssemblyReference.cache
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.ADI_ARAMA_SOYADI_FİLTRELEME.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.bütünform.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmOGRHAKKINDA.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN1.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmSORUN2.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmTaksitOdemeleri.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.sınıflar.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmAna.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Form2.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMANNEBABADURUMU.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.FRMOGR.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.frmveliler.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.LOGIN.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.Properties.Resources.resources
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.GenerateResource.cache
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\ANAOKULU_OTOMASYONU MUSTAFA SAYINSOY 185050806.csproj.CoreCompileInputs.cache
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.exe
+C:\Users\rıza sayınsoy\Desktop\Yazılım müh ödevi\mussstunaaa ÖDEEV\OZEL_ANAOKULU_OTOMASYONU\obj\Debug\OZEL_ANAOKULU_OTOMASYONU.pdb
